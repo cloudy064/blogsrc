@@ -1,5 +1,5 @@
 ---
-title: 云064带你刷leetcode(一)
+title: 云064带你刷leetcode(1)
 date: 2016-10-18 18:21:29
 categories: leetcode
 tags: [algorithm,c++,leetcode]
@@ -11,12 +11,12 @@ tags: [algorithm,c++,leetcode]
 输出：两个下标x和y，使得数组a中这两个下标的数的和为t (a[x]+a[y]==t)
 注意：题目中说明了，假设数组中只有一组下标符合条件
 
-<!--more-->
-
 ## 2. 示例
 > 输入 nums=[2,7,11,15], target=9
 > 因为 nums[0] + nums[1] = 2 + 7 = 9
 > 所以 输出 [0,1]
+
+<!--more-->
 
 ---
 
